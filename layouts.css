@@ -1,0 +1,25 @@
+/* layouts.css */
+
+.container {
+  overflow: hidden;
+}
+
+.container.in-three {
+  width: 33.3%;
+}
+
+.container.in-half {
+  width: 50%;
+}
+
+.container in-four {
+  width: 25%
+}
+
+.container in-five {
+  width: 20%;
+}
+
+.container in-six {
+  width: 16.6666666667;
+}
